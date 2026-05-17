@@ -3,7 +3,7 @@
 How to use it:
 1. Allow camera access.
 2. Hold the SHIFT key on your keyboard to start drawing.
-3. You can also change colors using the buttons
+3. You can also change colors using the buttons.
 4. Tap the spacebar to magically erase everything and start fresh.
 
 Note:
