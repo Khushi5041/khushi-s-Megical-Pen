@@ -1,4 +1,4 @@
-# khushi's-Megical-Pen
+# Megical-Pen
 
 How to use it:
 1. Allow camera access.
